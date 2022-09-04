@@ -6,8 +6,8 @@ import { useMoralis } from "react-moralis"
 
 
 const uauth = new UAuth({
-    clientID: "6e13ab70-38ab-4898-b5ad-62c362270e73",
-    redirectUri: "http://localhost:3000",
+    clientID: "b48945bd-2d48-4b7f-93ce-5ac71b2e9fcc",
+    redirectUri: "https://recyclolottery.vercel.app/",
     scope: "openid wallet"
   });
 
