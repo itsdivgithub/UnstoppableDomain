@@ -19,11 +19,8 @@ Core Objectives and Future Plans of RecycloMade-
 - 🎯 **AIM**: Our Ultimate Goal is to reduce Pollution by recycling waste items and also educating people about our current environmental issues. People can show creativity by making something unique by concept of recycling.
 
 
-### Implementation and MVP for **Encode X Chainlink Hackathon**
+### UNSTOPPABLE DOMAIN Integration**
 
----
-
-- I alone started this project in **Encode X Chainlink Hackathon**.
 
 - A Lottery Game to keep our supporters engaged to keep recycling waste items and by making best out of it get an equal chance of winning every day.
 
