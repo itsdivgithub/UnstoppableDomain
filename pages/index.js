@@ -29,7 +29,7 @@ export default function Home() {
                   )}
               </div>
           ) : (
-              <div className="font-bold text-align: center">Please connect to a Wallet</div>
+              <div className="font-bold" style="display: flex; justify-content: space-around">Please connect to a Wallet</div>
           )}
           <MintNFT />
       </div>
