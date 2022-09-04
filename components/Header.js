@@ -64,6 +64,8 @@ function Header() {
       
       await enableWeb3()
       // depends on what button they picked
+      if (typeof window !== "undefined") {
+          window.localStorage.setItem("connected", "injected")}
       console.log(accounts);
 
       setLoading(true);
