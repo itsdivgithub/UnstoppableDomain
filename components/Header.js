@@ -98,9 +98,9 @@ function Header() {
   if (user) {
     return (
         
-    <nav className="p-5 border-b-2 bg-[#a3a09d] flex flex-row">
+    <nav className="p-5 border-b-2 bg-[#100c08] flex flex-row">
     <h1 className="py-4 px-4 font-bold text-3xl bg-[#aafe1e]"> RecycloMade </h1>
-        <div className="ml-auto py-2 px-8 bg-[#1a9ccf]">
+        <div className="ml-auto py-4 px-8 bg-[#aafe1e]">
       <Button
       type="button"
         colorScheme="teal"
@@ -120,12 +120,12 @@ function Header() {
   }
 
   return (
-    <nav className="p-5 border-b-2 bg-[#a3a09d] flex flex-row">
+    <nav className="p-5 border-b-2 bg-[#100c08] flex flex-row">
             <h1 className="py-4 px-4 font-bold text-3xl bg-[#aafe1e]"> RecycloMade </h1>
             <div className="ml-auto py-4 px-8 ">
               <meta/>
               </div>
-            <div className="ml-auto py-2 px-4 bg-[#1a9ccf]">
+            <div className="ml-auto py-4 px-4 bg-[#aafe1e]">
     <Button
     type="button"
       colorScheme="teal"
