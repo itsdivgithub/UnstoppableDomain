@@ -24,13 +24,13 @@ Core Objectives and Future Plans of RecycloMade-
 
 - A Lottery Game to keep our supporters engaged to keep recycling waste items and by making best out of it get an equal chance of winning every day.
 
-Project name:- Domain integration in RecycloMade
-Repo:- https://github.com/itsdivgithub/UnstoppableDomain
-Live URL with working integration:- http://recyclolottery.vercel.app/
-Demo Video link:- https://drive.google.com/file/d/1_hPVobEmt2lU7GUrrmkGZx9JMdilhJDI/view?usp=sharing
-Person of contact: @itsdivgithub
-Discord Id:- divweb#8073
-Unstoppable Domain registered account email address:- 10x.divminds@gmail.com
+* Project name:- Domain integration in RecycloMade
+* Repo:- https://github.com/itsdivgithub/UnstoppableDomain
+* Live URL with working integration:- http://recyclolottery.vercel.app/
+* Demo Video link:- https://drive.google.com/file/d/1_hPVobEmt2lU7GUrrmkGZx9JMdilhJDI/view?usp=sharing
+* Person of contact: @itsdivgithub
+* Discord Id:- divweb#8073
+* Unstoppable Domain registered account email address:- 10x.divminds@gmail.com
 
 
 ### **Tech Stack -**
